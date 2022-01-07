@@ -1,0 +1,149 @@
+{
+    "animations":[
+        {
+            "name":"Soft scale",
+            "value":"1"
+        },
+        {
+            "name":"Press away",
+            "value":"2"
+        },
+        {
+            "name":"Apple",
+            "value":"3"
+        },
+        {
+            "name":"Slide Swing",
+            "value":"4"
+        },
+        {
+            "name":"Fortune wheel",
+            "value":"5"
+        },
+        {
+            "name":"Swipe",
+            "value":"6"
+        },
+        {
+            "name":"Push reveal",
+            "value":"7"
+        },
+        {
+            "name":"Snap in",
+            "value":"8"
+        },
+        {
+            "name":"Let me in",
+            "value":"9"
+        }
+
+    ],
+    "songs": [
+        {
+            "name": "Clannad",
+            "singer": "Dango Song",
+            "path": "./assets/music/CLANNAD Full Ending Theme - Dango Daikazoku.mp3",
+            "image": "./assets/img/Clannad/Clannad.jpg",
+            "background": "./assets/img/Clannad/1.jpg",
+            "album":[
+                "./assets/img/Clannad/1.jpg",
+                "./assets/img/Clannad/2.jpg",
+                "./assets/img/Clannad/3.jpg",
+                "./assets/img/Clannad/4.jpg",
+                "./assets/img/Clannad/5.jpg",
+                "./assets/img/Clannad/6.jpg",
+                "./assets/img/Clannad/7.jpg",
+                "./assets/img/Clannad/8.jpg",
+                "./assets/img/Clannad/9.png",
+                "./assets/img/Clannad/10.jpg",
+                "./assets/img/Clannad/11.jpg",
+                "./assets/img/Clannad/12.jpg",
+                "./assets/img/Clannad/13.jpg",
+                "./assets/img/Clannad/14.png",
+                "./assets/img/Clannad/15.jpg",
+                "./assets/img/Clannad/16.jpg"
+            ]
+        },
+        {
+            "name": "Violet Evergarden",
+            "singer": "Ending Song",
+            "path": "./assets/music/AMV Ending Full Violet Evergarden.mp3",
+            "image": "./assets/img/Violet/cd.png",
+            "background": "./assets/img/Violet/1.png",
+            "album":[
+                "./assets/img/Violet/1.png",
+                "./assets/img/Violet/2.jpg",
+                "./assets/img/Violet/3.jpg",
+                "./assets/img/Violet/4.png",
+                "./assets/img/Violet/5.png",
+                "./assets/img/Violet/6.png",
+                "./assets/img/Violet/7.png",
+                "./assets/img/Violet/8.jpg",
+                "./assets/img/Violet/9.jpg",
+                "./assets/img/Violet/10.png",
+                "./assets/img/Violet/11.jpg",
+                "./assets/img/Violet/12.jpg",
+                "./assets/img/Violet/13.jpg",
+                "./assets/img/Violet/14.jpg"
+            ]
+        },
+        {
+            "name": "Date A Live",
+            "singer": "Touka",
+            "path": "./assets/music/Những bài hát cực hay trong - Date A Live ( l , ll ).mp3",
+            "image": "./assets/img/DateALive/cd.jpg",
+            "background": "./assets/img/DateALive/1.png",
+            "album":[
+                "./assets/img/DateALive/1.png",
+                "./assets/img/DateALive/2.jpg",
+                "./assets/img/DateALive/3.jpg",
+                "./assets/img/DateALive/4.png",
+                "./assets/img/DateALive/5.jpg",
+                "./assets/img/DateALive/6.jpg",
+                "./assets/img/DateALive/7.jpg",
+                "./assets/img/DateALive/8.png",
+                "./assets/img/DateALive/9.jpg",
+                "./assets/img/DateALive/10.png",
+                "./assets/img/DateALive/11.jpg",
+                "./assets/img/DateALive/12.jpg"
+            ]
+        },
+        {
+            "name": "Oregairu",
+            "singer": "Yukino",
+            "path": "./assets/music/Bitter Bitter Sweet - Festival Song Yukino x Yui [Yahari Ore no Seishun Love Come wa Machigatteiru].mp3",
+            "image": "./assets/img/Oregairu/cd.png",
+            "background": "./assets/img/Oregairu/1.jpg",
+            "album":[
+                "./assets/img/Oregairu/1.jpg",
+                "./assets/img/Oregairu/2.png",
+                "./assets/img/Oregairu/3.png",
+                "./assets/img/Oregairu/4.jpg",
+                "./assets/img/Oregairu/5.jpg",
+                "./assets/img/Oregairu/6.png",
+                "./assets/img/Oregairu/7.png",
+                "./assets/img/Oregairu/8.png",
+                "./assets/img/Oregairu/9.jpg",
+                "./assets/img/Oregairu/10.jpg"
+            ]
+        },
+        {
+            "name": "Takagi",
+            "singer": "YIRUMA",
+            "path": "./assets/music/All Karakai Jouzu no Takagi-san EDs (1-7).mp3",
+            "image": "./assets/img/Takagi/cd.jpg",
+            "background": "./assets/img/Takagi/1.png",
+            "album":[
+                "./assets/img/Takagi/1.png",
+                "./assets/img/Takagi/2.png",
+                "./assets/img/Takagi/3.jpg",
+                "./assets/img/Takagi/4.jpg",
+                "./assets/img/Takagi/5.jpg",
+                "./assets/img/Takagi/6.jpg",
+                "./assets/img/Takagi/7.jpg",
+                "./assets/img/Takagi/8.jpg"
+            ]
+        }
+    ]
+
+}
